@@ -1,6 +1,6 @@
 # Google Foobar
 
-This repo contains the 10 Google Foobar Challanges I encountered during my two play throughs. My Solutions are written in python or java depending what the problem in tailed and what language was better suited for said problem.
+This repo contains the 10 Google Foobar Challanges I encountered during my two play throughs. My Solutions are written in python or java depending what language was better suited for said problem.
 I have not encluded solutions in this repo but if you need help or are stuck message me and I might be able to give you some tips. 
 
 - Aaron
